@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">BMI Calculator</string>
     <string name="bmi_calculator">BMI CALCULATOR</string>
-    <string name="height">Height (ft)</string>
+    <string name="height">Height (Ft)</string>
     <string name="calculate">CALCULATE</string>
-    <string name="age">Age</string>
-    <string name="weight">Weight (kgs)</string>
+    <string name="age">Age (Y)</string>
+    <string name="weight">Weight (Kg)</string>
 </resources>
