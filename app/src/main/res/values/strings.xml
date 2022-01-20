@@ -5,4 +5,7 @@
     <string name="calculate">CALCULATE</string>
     <string name="age">Age (Y)</string>
     <string name="weight">Weight (Kg)</string>
+    <string name="_70">70</string>
+    <string name="_175">175</string>
+    <string name="_20">20</string>
 </resources>
